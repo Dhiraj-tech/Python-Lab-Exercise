@@ -1,0 +1,6 @@
+num=(1,2,3)
+x=list(num)
+print(x)
+x.append("ram")
+y=tuple(x)
+print(y)
